@@ -39,6 +39,6 @@
 
 ###
 
-<img align="right" height="270" src="https://media1.tenor.com/m/U5hmONvZGo8AAAAd/mmt-error-error.gif"  />
+<img align="right" height="220" src="https://media1.tenor.com/m/U5hmONvZGo8AAAAd/mmt-error-error.gif"  />
 
 ###
