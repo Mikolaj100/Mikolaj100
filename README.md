@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💭I'm starting to learn programming<br>🥰99.99%</p>
+<p align="left">🥷🏼I'm starting to learn programming<br>🤫99.99%</p>
 
 
 ###
