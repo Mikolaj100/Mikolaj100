@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">💭I'm starting to learn programming</p>
+<p align="left">💭I'm starting to learn programming<br>🥰99.99%</p>
+
 
 ###
 
@@ -31,5 +32,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<img align="left" height="300" src="https://media1.tenor.com/m/DHkIdy0a-UkAAAAC/loading-cat.gif"  />
+
+###
+
+<img align="right" height="300" src="https://media1.tenor.com/m/U5hmONvZGo8AAAAd/mmt-error-error.gif"  />
 
 ###
