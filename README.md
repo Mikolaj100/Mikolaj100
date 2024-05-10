@@ -35,7 +35,7 @@
 
 ###
 
-<img align="left" height="270" src="https://media1.tenor.com/m/DHkIdy0a-UkAAAAC/loading-cat.gif"  />
+<img align="left" height="250" src="https://media1.tenor.com/m/DHkIdy0a-UkAAAAC/loading-cat.gif"  />
 
 ###
 
