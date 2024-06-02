@@ -2,19 +2,6 @@
 
 ###
 
-<p align="left">My name is Mikołaj</p>
-
-###
-
-<h2 align="left">About me:</h2>
-
-###
-
-<p align="left">🥷🏼I'm starting to learn programming<br>🤫99.99%</p>
-
-
-###
-
 <h2 align="left">👨🏻‍💻🔥 Languages and Tools:</h2>
 
 ###
