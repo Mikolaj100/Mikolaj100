@@ -34,7 +34,8 @@
 ###
 
 <h1>🎰GitHub Analytics:</h1>
-![Mikolaj100's Stats](https://github-readme-stats.vercel.app/api?username=Mikolaj100&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-![Mikolaj100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikolaj100&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+<img src="(https://github-readme-stats.vercel.app/api?username=Mikolaj100&theme=blueberry&show_icons=true&hide_border=false&count_private=true)"> 
+
+
 
 ###
