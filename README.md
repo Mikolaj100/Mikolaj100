@@ -1,6 +1,9 @@
 ###
 
 <h1>Hello👋🏼, I'm Mikołaj</h1>
+<div align="center">
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://cdn3.emoji.gg/emojis/5498_catJAM.gif)"  />
+</div>
 
 ###
 
@@ -10,7 +13,7 @@
 
 ###
 
-<h1>🛠Tech Stack</h1>
+<h1>🛠Tech Stack:</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
