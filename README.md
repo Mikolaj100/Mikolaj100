@@ -1,9 +1,7 @@
 ###
 
 <h1>Hello👋🏼, I'm Mikołaj</h1>
-<div align="center">
-  <a href="https://emoji.gg/emoji/5498_catJAM"><img src="https://cdn3.emoji.gg/emojis/5498_catJAM.gif" width="64px" height="64px" alt="catJAM"></a>
-</div>
+<a href="https://emoji.gg/emoji/5498_catJAM"><img src="https://cdn3.emoji.gg/emojis/5498_catJAM.gif" width="64px" height="64px" alt="catJAM"></a>
 
 ###
 
