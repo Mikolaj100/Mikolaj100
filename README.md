@@ -6,8 +6,11 @@
 ###
 
 <h1>🧙🏼‍♂️About Me:</h1>
-<ul><li>👨🏼‍💻I'm just programming</li>
-<li>🌌At the moment I'm working on frontend</li></ul>
+<ul>
+ <li>👨🏼‍💻I'm just programming</li>
+ <li>🌌At the moment I'm working on frontend</li>
+ <li>🖥I am generally interested in computer science and everything related to it.</li>
+</ul>
 
 ###
 
