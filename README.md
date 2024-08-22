@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9lb29kdjMyM3o0eWl5M3l6NjFvbGN6c3MxdDM3MWlkbzRpa3AzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="gif" width="300">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9lb29kdjMyM3o0eWl5M3l6NjFvbGN6c3MxdDM3MWlkbzRpa3AzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="gif" width="900">
 
 ##
