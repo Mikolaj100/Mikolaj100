@@ -34,7 +34,7 @@
 ###
 
 <h1>🎰GitHub Analytics:</h1>
-<img src="[https://github-readme-stats.vercel.app/api?username=mikolaj100&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api/top-langs?username=mikolaj100&show_icons=true&locale=en&layout=compact)" alt="#">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikolaj100&show_icons=true&locale=en&layout=compact" alt="#">
 
 
 
