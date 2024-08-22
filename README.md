@@ -2,7 +2,7 @@
 
 <h1>Hello👋🏼, I'm Mikołaj</h1>
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://cdn3.emoji.gg/emojis/5498_catJAM.gif)"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif](https://cdn3.emoji.gg/emojis/5498_catJAM.gif"  />
 </div>
 
 ###
